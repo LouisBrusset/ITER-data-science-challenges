@@ -1,0 +1,15 @@
+Batch size: 128 -- Optimizer: Adam ---- MAPE: 91.9513
+Batch size: 128 -- Optimizer: AdamW ---- MAPE: 92.1543
+Batch size: 128 -- Optimizer: Nadam ---- MAPE: 91.7670
+Batch size: 64 -- Optimizer: Adam ---- MAPE: 92.0586
+Batch size: 64 -- Optimizer: AdamW ---- MAPE: 91.9462
+Batch size: 64 -- Optimizer: Nadam ---- MAPE: 91.8684
+Batch size: 32 -- Optimizer: Adam ---- MAPE: 92.0461
+Batch size: 32 -- Optimizer: AdamW ---- MAPE: 91.9752
+Batch size: 32 -- Optimizer: Nadam ---- MAPE: 91.8432
+Batch size: 16 -- Optimizer: Adam ---- MAPE: 91.8131
+Batch size: 16 -- Optimizer: AdamW ---- MAPE: 91.9167
+Batch size: 16 -- Optimizer: Nadam ---- MAPE: 91.9876
+Batch size: 8 -- Optimizer: Adam ---- MAPE: 91.8358
+Batch size: 8 -- Optimizer: AdamW ---- MAPE: 91.8203
+Batch size: 8 -- Optimizer: Nadam ---- MAPE: 92.0515
